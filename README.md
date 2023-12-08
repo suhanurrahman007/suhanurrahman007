@@ -1,4 +1,4 @@
-![logo](https://github.com/suhanurrahman007/suhanurrahman007/blob/main/istockphoto-1216520813-170667a.jpg)
+<img align="right" alt="coding" width="100%" src="https://media.istockphoto.com/id/1216520813/th/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2/%E0%B9%84%E0%B8%8B%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA%E0%B9%80%E0%B8%9B%E0%B8%8B%E0%B8%94%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%A5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%94%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%AD%E0%B8%A5%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%94%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95.jpg?s=170667a&w=0&k=20&c=bmKGCEEI6nhktAdA9gD2BXxYPzm8GwKgalCHYzVavHs=">
 <h1 align="center">Hi 👋, I'm Suhanur Rahman</h1>
 <h3 align="center"> I am a passionate and creative web developer with a keen eye for detail and a love for clean and functional design. Proficient in a variety of programming languages and frameworks, I specialize in crafting dynamic and responsive websites that not only meet but exceed client expectations.</h3>
 
@@ -23,9 +23,9 @@
 
 <h3>Github Stats:</h3>
 
-<p><img align="left" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhanurrahman007&show_icons=true&locale=en&layout=compact" alt="suhanurrahman007" /></p>
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=suhanurrahman007&show_icons=true&locale=en&layout=compact" alt="suhanurrahman007" /></p>
 
-<p>&nbsp;<img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=suhanurrahman007&show_icons=true&locale=en" alt="suhanurrahman007" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=suhanurrahman007&show_icons=true&locale=en" alt="suhanurrahman007" /></p>
 
 
 
