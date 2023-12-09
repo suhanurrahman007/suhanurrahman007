@@ -28,6 +28,16 @@ Create event-specific galleries for easy navigation.
 Enable users to share event details and their participation on social media platforms.
 Embed social media feeds to showcase real-time updates and user-generated content.
 Ensure the platform is accessible and user-friendly on various devices, including desktops, tablets, and smartphones.
+
+ <details><summary><b>Technologies:</b></summary>
+ <ul>
+  <li>MongoDB for the database.</li>
+  <li>Express.js for the backend server.</li>
+  <li>React for the frontend.</li>
+  <li>Node.js for server-side JavaScript.</li>
+
+</ul>
+</details>
 </p>
   <ul>
   <li>[ Live Site Link](https://food-store-2a07d.web.app/)</li>
@@ -47,6 +57,16 @@ Create event-specific galleries for easy navigation.
 Enable users to share event details and their participation on social media platforms.
 Embed social media feeds to showcase real-time updates and user-generated content.
 Ensure the platform is accessible and user-friendly on various devices, including desktops, tablets, and smartphones.
+
+ <details><summary><b>Technologies:</b></summary>
+ <ul>
+  <li>MongoDB for the database.</li>
+  <li>Express.js for the backend server.</li>
+  <li>React for the frontend.</li>
+  <li>Node.js for server-side JavaScript.</li>
+
+</ul>
+</details>
 </p>
   <ul>
   <li>[ Live Site Link](https://foporbaz.web.app/)</li>
