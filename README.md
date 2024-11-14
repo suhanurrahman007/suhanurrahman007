@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Suhanur Rahman</h1>
 <h3 align="center"> "I am proficient in developing full-stack web applications using React, Firebase, MongoDB, Node.js, and styling with Tailwind CSS, along with expertise in HTML, CSS, and JavaScript."</h3>
 
-<img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400"  src="https://github.com/suhanurrahman007/suhanurrahman007/blob/main/images/liv-git.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhanurrahman007&label=Profile%20views&color=0e75b6&style=flat" alt="suhanurrahman007" /> </p>
 
