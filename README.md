@@ -121,8 +121,6 @@ Provide customizable notifications for users to stay informed about activity on 
 </p>
 <br />
 
-## ..............
-
 ## :chart_with_upwards_trend: Current Stats  with Chart
 
 <p align="center">
