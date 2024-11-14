@@ -115,13 +115,11 @@ Provide customizable notifications for users to stay informed about activity on 
 <br />
 
 <p align="center">
- <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=suhanurrahman007&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="suhanurrahman007" />
+ <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=suhanurrahman007&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="suhanurrahman007" />
 
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=suhanurrahman007&show_icons=true&locale=en&theme=github_dark" alt="suhanurrahman007" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=suhanurrahman007&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="suhanurrahman007" />
 </p>
 <br />
-
-## :chart_with_upwards_trend: Current Stats  with Chart
 
 <p align="center">
  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suhanurrahman007&theme=github_dark">
