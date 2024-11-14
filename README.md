@@ -106,13 +106,14 @@ Provide customizable notifications for users to stay informed about activity on 
 <br />
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=suhanurrahman007&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-
+<br />
  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suhanurrahman007&theme=github_dark">
 </p>
 
-<br/>
+
 ## :chart_with_upwards_trend: Github Stats
-<br/>
+
+<br />
 
 <p align="center">
  <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=suhanurrahman007&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="suhanurrahman007" />
