@@ -121,7 +121,7 @@ Provide customizable notifications for users to stay informed about activity on 
 </p>
 <br />
 
-- 📫 How to reach me **suhansh@gmile.com** 
+**oneyeareducation@gmile.com** 
 
 ## :chart_with_upwards_trend: Current Stats  with Chart
 
