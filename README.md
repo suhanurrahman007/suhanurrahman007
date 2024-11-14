@@ -120,5 +120,47 @@ Provide customizable notifications for users to stay informed about activity on 
 
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=suhanurrahman007&show_icons=true&locale=en&theme=github_dark" alt="suhanurrahman007" />
 </p>
+<br />
 
+## :computer: Technology that I know
+
+<br>
+<p align="center">
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/css.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/JavaScript.png"/>
+<img  height="60" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/typescript.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/tailwind.png"/>
+<img  height="60" src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/NEXTJS.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/react.png"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/Bootsrap.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/node.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/express.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/mongo.png"/>
+<img  height="80"  src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/mongose.png"/>
+<img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/redux.png"/>
+</p>
+<br/>
+
+## :eyes: Current overview
+
+<div align="left">
+<a href=""><img align="right" src="https://github.com/suhanurrahman007/suhanurrahman007/blob/main/images/bann2.gif" width="200" alt="shah alam Dev Card"/></a>
+</div>
+
+### 🔭 I’m a Web Developer.
+
+### 🌱 I’m learning - New Technology .
+
+### 👯 I’m looking - To collaborate on open source projects.
+
+### 🤔 I’m trying - To help people by web development.
+
+### ⚡ Fun fact - I love to enjoy movies.
+
+<br />
 
