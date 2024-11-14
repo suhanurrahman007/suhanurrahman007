@@ -33,7 +33,7 @@ Ensure the platform is accessible and user-friendly on various devices, includin
  <ul>
   <li>MongoDB for the database.</li>
   <li>Express.js for the backend server.</li>
-  <li>React for the frontend.</li>
+  <li>React for the frontEnd.</li>
   <li>Node.js for server-side JavaScript.</li>
 
 </ul>
@@ -62,7 +62,7 @@ Ensure the platform is accessible and user-friendly on various devices, includin
  <ul>
   <li>MongoDB for the database.</li>
   <li>Express.js for the backend server.</li>
-  <li>React for the frontend.</li>
+  <li>React for the frontEnd.</li>
   <li>Node.js for server-side JavaScript.</li>
 
 </ul>
@@ -88,7 +88,7 @@ Provide customizable notifications for users to stay informed about activity on 
  <ul>
   <li>MongoDB for the database.</li>
   <li>Express.js for the backend server.</li>
-  <li>React for the frontend.</li>
+  <li>React for the frontEnd.</li>
   <li>Node.js for server-side JavaScript.</li>
 
 </ul>
@@ -105,16 +105,16 @@ Provide customizable notifications for users to stay informed about activity on 
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ShahAlammm&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=suhanurrahman007&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
   <br/>
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahAlammm&theme=github_dark">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suhanurrahman007&theme=github_dark">
 </p>
 
 ## :memo: Languages
 
 <br/>
 <p align="center">
-<img width="60%"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahAlammm&theme=github_dark" />
+<img width="60%"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suhanurrahman007&theme=github_dark" />
 
 </p>
 
