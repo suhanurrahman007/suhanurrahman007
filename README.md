@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="100%" height="250" src="https://github.com/suhanurrahman007/suhanurrahman007/blob/main/images/git_banner.gif?s=170667a&w=0&k=20&c=bmKGCEEI6nhktAdA9gD2BXxYPzm8GwKgalCHYzVavHs=">
+<img align="right" alt="coding" width="100%" height="250" src="https://github.com/suhanurrahman007/suhanurrahman007/blob/main/images/git_banner.gif">
 <h1 align="center">Hi 👋, I'm Suhanur Rahman</h1>
 <h3 align="center"> "I am proficient in developing full-stack web applications using React, Firebase, MongoDB, Node.js, and styling with Tailwind CSS, along with expertise in HTML, CSS, and JavaScript."</h3>
 
