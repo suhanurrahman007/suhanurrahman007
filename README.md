@@ -121,7 +121,8 @@ Provide customizable notifications for users to stay informed about activity on 
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=suhanurrahman007&show_icons=true&locale=en&theme=github_dark" alt="suhanurrahman007" />
 </p>
 <br />
-
+<br />
+<br />
 ## :computer: Technology that I know
 
 <br>
@@ -149,7 +150,7 @@ Provide customizable notifications for users to stay informed about activity on 
 ## :eyes: Current overview
 
 <div align="left">
-<a href=""><img align="right" src="https://github.com/suhanurrahman007/suhanurrahman007/blob/main/images/bann2.gif" width="200" alt="shah alam Dev Card"/></a>
+<a href=""><img align="right" src="https://github.com/suhanurrahman007/suhanurrahman007/blob/main/images/bann2.gif" width="400" alt="shah alam Dev Card"/></a>
 </div>
 
 ### 🔭 I’m a Web Developer.
