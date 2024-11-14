@@ -122,7 +122,8 @@ Provide customizable notifications for users to stay informed about activity on 
 </p>
 <br />
 
-## :computer: Technology that I know
+<p>
+ ## :computer: Technology that I know
 
 <br>
 <p align="center">
@@ -143,6 +144,7 @@ Provide customizable notifications for users to stay informed about activity on 
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/mongo.png"/>
 <img  height="80"  src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/mongose.png"/>
 <img src="https://github.com/ShahAlammm/ShahAlammm/blob/main/images/icons/redux.png"/>
+</p>
 </p>
 <br/>
 
