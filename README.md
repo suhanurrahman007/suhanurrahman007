@@ -120,8 +120,7 @@ Provide customizable notifications for users to stay informed about activity on 
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=suhanurrahman007&show_icons=true&locale=en&theme=github_dark" alt="suhanurrahman007" />
 </p>
 <br />
-<p>........................</p>
-<br />
+
 ## :chart_with_upwards_trend: Current Stats  with Chart
 
 <p align="center">
